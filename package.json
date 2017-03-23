@@ -1,0 +1,26 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "node-app dependencies",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/amila-ku/node-app.git"
+  },
+  "keywords": [
+    "node-app"
+  ],
+  "author": "Amila Kumaranayaka <amila.kumaranayaka@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amila-ku/node-app/issues"
+  },
+  "homepage": "https://github.com/amila-ku/node-app#readme",
+  "dependencies": {
+    "boom": "^4.3.0",
+    "hapi": "^16.1.0"
+  }
+}
